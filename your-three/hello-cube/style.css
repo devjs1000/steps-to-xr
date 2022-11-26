@@ -1,0 +1,73 @@
+body {
+  /* overflow: hidden; */
+  margin: 0;
+  padding: 0;
+}
+#canvas {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+/* * {
+  math-style: ;
+  marker: ;
+  mask: ;
+  src: ;
+  fill: ;
+  clip: ;
+  unicode-range: ;
+  text-rendering: ;
+  will-change: ;
+  touch-action: ;
+  clip-path: ;
+  stroke: ;
+  stop-color: ;
+  contain: ;
+  hyphens: ;
+  font-variant-ligatures: ;
+  font-display: ;
+  font-variation-settings: ;
+  all: ;
+  aspect-ratio: ;
+  counter-increment: ;
+  counter-set: ;
+  counter-reset: ;
+  quotes: ;
+  overflow-anchor: ;
+  fallback: ;
+  enable-background: ;
+  flood-opacity: ;
+  glyph-orientation-horizontal: ;
+  isolation: ;
+  orientation: ;
+  orphans: ;
+  shape-image-threshold: ;
+  speak-as: ;
+  suffix: ;
+  symbols: ;
+  syntax: ;
+  system: ;
+  prefix: ;
+  range: ;
+  ruby-align: ;
+  ruby-merge: ;
+  ruby-overhang: ;
+  ruby-position: ;
+  ruby-span: ;
+  widows: ;
+  bleed: ;
+  hanging-punctuation: ;
+  hyphenate-character: ;
+  ascent-override: ;
+  align-tracks: ;
+  input-security: ;
+  justify-tracks: ;
+  masonry-auto-flow: ;
+  motion: ;
+  nav-down: ;
+  negative: ;
+  negative: ;
+  offset: ;
+} */
