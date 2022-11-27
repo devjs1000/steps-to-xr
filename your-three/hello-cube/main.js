@@ -6,6 +6,8 @@ let aspect = 2;
 let near = 1;
 let far = 40;
 let z = 10;
+const pixelRatio = window.devicePixelRatio;
+
 const draw = () => {
   const renderer = new three.WebGLRenderer({
     canvas,
@@ -44,7 +46,7 @@ const draw = () => {
     light.position.set(camera.position.x, camera.position.y, camera.position.z);
     times *= 0.001;
     cube.rotation.x = times;
-    // cube.rotation.y = times;
+    cube.rotation.y = times;
     scene.add(cube);
     renderer.render(scene, camera);
 
